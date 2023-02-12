@@ -1,7 +1,7 @@
 # group-site-starter
 
 ## About
-Starter code for [TechMoms](https://www.tech-moms.org/ "TechMoms") Week 3 Website Building Workshop.
+Starter code for [TechMoms](https://www.tech-moms.org/ "TechMoms") Week 4 (Feb 9) Website Building Workshop.
 
 ## How to start this project
 To start this project follow one of the following options
